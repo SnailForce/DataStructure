@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1493214070 source:c:\c++++++++++++++++\sjjg\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

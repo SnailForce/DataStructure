@@ -1,0 +1,25 @@
+﻿  源.cpp
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(152): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(153): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(480): error C2065: “；”: 未声明的标识符
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(481): error C2143: 语法错误: 缺少“;”(在“else”的前面)
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(481): error C2181: 没有匹配 if 的非法 else
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(483): warning C4552: “/”: 运算符不起任何作用；应输入带副作用的运算符
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(534): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(572): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(639): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(671): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(738): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(776): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(845): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\lenovo\desktop\算法课程设计\3\consoleapplication1\consoleapplication1\源.cpp(883): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明

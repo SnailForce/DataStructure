@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\lenovo\desktop\consoleapplication2\consoleapplication2\源.cpp(311): warning C4101: “v”: 未引用的局部变量
+c:\users\lenovo\desktop\consoleapplication2\consoleapplication2\源.cpp(310): warning C4101: “k”: 未引用的局部变量
+c:\users\lenovo\desktop\consoleapplication2\consoleapplication2\源.cpp(312): warning C4101: “H”: 未引用的局部变量
+  ConsoleApplication2.vcxproj -> C:\Users\lenovo\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\lenovo\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Partial PDB)

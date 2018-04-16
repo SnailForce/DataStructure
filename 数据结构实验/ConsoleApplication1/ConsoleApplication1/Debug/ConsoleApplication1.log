@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\lenovo\desktop\consoleapplication1\consoleapplication1\源.cpp(250): warning C4700: 使用了未初始化的局部变量“p”
+  ConsoleApplication1.vcxproj -> C:\Users\lenovo\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\lenovo\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)

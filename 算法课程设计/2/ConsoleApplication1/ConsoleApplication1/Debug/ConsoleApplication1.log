@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\lenovo\desktop\算法课程设计\2\consoleapplication1\consoleapplication1\源.cpp(132): warning C4715: “locate”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> C:\Users\lenovo\Desktop\算法课程设计\2\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\lenovo\Desktop\算法课程设计\2\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)

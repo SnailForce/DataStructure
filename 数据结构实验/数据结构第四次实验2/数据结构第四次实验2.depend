@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1493482176 source:c:\users\lenovo\desktop\数据结构实验\数据结构第四次实验2\main.cpp
+	<iostream>
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+

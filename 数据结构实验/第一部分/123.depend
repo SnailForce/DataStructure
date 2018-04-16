@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493261517 source:c:\users\lenovo\desktop\123\main.cpp
+	<iostream>
+	<malloc.h>
+	<cstdlib>
+

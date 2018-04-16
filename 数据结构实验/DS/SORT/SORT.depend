@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496317778 source:z:\noj\sort\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
